@@ -21,7 +21,7 @@ $ pkg install python -y
 $ pkg install python-pip
 $ git clone https://github.com/N00B-3NC0DE3/Py-Marshal
 $ cd Py-Marshal
-$ python Variable.py
+$ python Run.py
 ```
 
 ### - *💥 Example 💥:*
